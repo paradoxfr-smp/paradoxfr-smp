@@ -7,6 +7,11 @@ Envie de discuter, partager vos créations et plus encore ? Rejoignez notre Disc
 
 [Rejoindre le Discord](https://paradoxfr-smp.github.io/Discord/)
 
+## 📜 Découvrez l'histoire de Paradox SMP 📜
+Envie de découvrir l'univers et l'histoire épique de notre serveur ? Cliquez sur le lien ci-dessous pour voir le lore complet de **Paradox SMP** !
+
+[Voir le lore](https://paradoxfr-smp.github.io/Beta/)
+
 ## 🌍 Adresse du serveur Minecraft 🌍
 Le serveur ParadoxFR SMP vous attend pour une aventure épique ! Cliquez sur le lien ci-dessous pour rejoindre notre serveur Minecraft.
 
