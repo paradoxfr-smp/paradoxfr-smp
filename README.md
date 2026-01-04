@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👑 Propriétaire de Paradox SMP 👑
 
+Salut ! Je suis le propriétaire de **Paradox SMP**, un serveur Minecraft passionnant où vous pouvez explorer, créer et jouer avec une communauté dynamique !
 
-**paradoxfr-smp/paradoxfr-smp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚨 Rejoignez notre Discord 🚨
+Envie de discuter, partager vos créations et plus encore ? Rejoignez notre Discord pour être au courant de toutes les dernières mises à jour et événements !
 
-Here are some ideas to get you started:
+[Rejoindre le Discord](https://paradoxfr-smp.github.io/Discord/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Adresse du serveur Minecraft 🌍
+Le serveur Paradox SMP vous attend pour une aventure épique ! Cliquez sur le lien ci-dessous pour rejoindre notre serveur Minecraft.
+
+[Rejoindre le serveur](https://paradoxfr-smp.github.io/Ip/)
+
+## 🔄 Versions compatibles 🔄
+Le serveur est **uniquement** compatible avec la version **1.21.10** et les versions supérieures de Minecraft Java Edition.
+
+Nous avons de nombreux événements et une communauté accueillante, alors n'attendez plus, rejoignez-nous maintenant et commencez à jouer !
+
+---
+
+🔗 **Paradox SMP** est l'endroit où les aventures prennent vie ! 🌟
